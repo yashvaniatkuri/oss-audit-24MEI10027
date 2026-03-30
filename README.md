@@ -1,5 +1,5 @@
-# oss-audit-24MEI10027
-# OSS Audit Project – Git
+
+# The Open Source Audit — Git (24MEI10027)
 
 ## Student Information
 **Student Name:** Atkuri Yashvani  
